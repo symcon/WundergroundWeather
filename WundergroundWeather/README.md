@@ -25,8 +25,9 @@ Es können aktuelle Daten, Unwetterwarnungen, sowie stündliche als auch täglic
 
 ### 3. Software-Installation
 
-Über das Modul-Control folgende URL hinzufügen.  
-`git://github.com/symcon/SymconMisc.git`  
+* Über den Modul Store das Modul WundergroundWeather installieren.
+* Alternativ über das Modul Control folgende URL hinzufügen:
+´https://github.com/symcon/WundergroundWeather`  
 
 ### 4. Einrichten der Instanzen in IP-Symcon
 
