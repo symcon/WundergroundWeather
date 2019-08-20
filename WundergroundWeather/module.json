@@ -9,5 +9,6 @@
   "parentRequirements": [],
   "childRequirements": [],
   "implemented": [],
-  "prefix": "WGW"
+  "prefix": "WGW",
+  "url": "https://github.com/symcon/WundergroundWeather/tree/master/WundergroundWeather"
 }
