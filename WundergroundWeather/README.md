@@ -3,7 +3,7 @@ Das Modul fragt über die Wunderground API Wetterdaten ab.
 Dafür ist eine Registrierung auf www.wunderground.com nötig, um einen API-Key zu erhalten.  
 Es können aktuelle Daten, Unwetterwarnungen, sowie stündliche als auch täglichen Vorhersagen abgefragt werden.  
 
-### Inhaltverzeichnis
+### Inhaltsverzeichnis
 
 1. [Funktionsumfang](#1-funktionsumfang)
 2. [Voraussetzungen](#2-voraussetzungen)
@@ -21,17 +21,17 @@ Es können aktuelle Daten, Unwetterwarnungen, sowie stündliche als auch täglic
 
 ### 2. Voraussetzungen
 
-- IP-Symcon ab Version 4.x
+- IP-Symcon ab Version 4.2
 
 ### 3. Software-Installation
 
-* Über den Modul Store das Modul WundergroundWeather installieren.
-* Alternativ über das Modul Control folgende URL hinzufügen:
-´https://github.com/symcon/WundergroundWeather`  
+* Über den Module Store das Modul WundergroundWeather installieren.
+* Alternativ über das Module Control folgende URL hinzufügen:
+`https://github.com/symcon/WundergroundWeather`  
 
 ### 4. Einrichten der Instanzen in IP-Symcon
 
-- Unter "Instanz hinzufügen" ist das 'WundergroundWeather'-Modul unter dem Hersteller '(Sonstige)' aufgeführt.  
+- Unter "Instanz hinzufügen" ist das 'WundergroundWeather'-Modul unter dem Hersteller '(Gerät)' aufgeführt.  
 
 __Konfigurationsseite__:
 
@@ -96,7 +96,7 @@ Windrichtung        | Float   | Angabe in Himmelsrichtungen
 ##### 12-stündliche Vorhersage
 Die Variablen werden mit 12, 24..96h gekennzeichnet (12 = Vorhersage in 12 Stunden; 96 = Vorhersage in 96 Stunden)
 
-**Hinweis: die 12h-stündliche Vorhersage wird von WUnderground nicht mehr geliefert. Die Variablen bleiben aus Kompatibilitätsgründen erhalten, enthalten aber die Werte der täglichen Vorhersage.**
+**Hinweis: die 12h-stündliche Vorhersage wird von Wunderground nicht mehr geliefert. Die Variablen bleiben aus Kompatibilitätsgründen erhalten, enthalten aber die Werte der täglichen Vorhersage.**
 
 
 Name             | Typ   | Beschreibung
