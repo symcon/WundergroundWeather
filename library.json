@@ -2,7 +2,7 @@
 	"id": "{77CBBDBC-29C2-4EF0-ACC9-70484BA4C8BC}",
 	"author": "Symcon GmbH",
 	"name": "WundergroundWeather",
-	"url": "www.symcon.de",
+	"url": "https://www.symcon.de/",
 	"compatibility": {
 		"version": "4.2"
 	},
