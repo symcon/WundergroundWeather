@@ -31,7 +31,8 @@ Es können aktuelle Daten, Unwetterwarnungen, sowie stündliche als auch täglic
 
 ### 4. Einrichten der Instanzen in IP-Symcon
 
-- Unter "Instanz hinzufügen" ist das 'WundergroundWeather'-Modul unter dem Hersteller '(Gerät)' aufgeführt.  
+- Unter "Instanz hinzufügen" kann das 'WundergroundWeather'-Modul mithilfe des Schnellfilters gefunden werden.
+    - Weitere Informationen zum Hinzufügen von Instanzen in der [Dokumentation der Instanzen](https://www.symcon.de/service/dokumentation/konzepte/instanzen/#Instanz_hinzufügen) 
 
 __Konfigurationsseite__:
 
