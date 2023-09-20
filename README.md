@@ -6,5 +6,5 @@
 
 Folgende Module beinhaltet das WundergroundWeather Repository:
 
-- __WundergroundWeather__ ([Dokumentation](WundergroundWeather))  
+- __WundergroundWeather__ ([Dokumentation](https://www.symcon.de/de/service/dokumentation/modulreferenz/wunderground-weather))  
 	Holt Wetterdaten (Aktuell/stündlich/12-stündlich/Unwetterwarnung) via API von www.wunderground.com
