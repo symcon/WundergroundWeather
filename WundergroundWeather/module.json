@@ -1,14 +1,14 @@
 {
-"id": "{EDF6BF77-0E16-4FCD-90E4-9E5C0F91B921}",
-  "name": "WundergroundWeather",
-  "type": 3,
-  "vendor": "",
-  "aliases": [
-    "WundergroundWeather"
-  ],
-  "parentRequirements": [],
-  "childRequirements": [],
-  "implemented": [],
-  "prefix": "WGW",
-  "url": "https://github.com/symcon/WundergroundWeather/tree/master/WundergroundWeather"
+    "id": "{EDF6BF77-0E16-4FCD-90E4-9E5C0F91B921}",
+    "name": "WundergroundWeather",
+    "type": 3,
+    "vendor": "",
+    "aliases": [
+        "WundergroundWeather"
+    ],
+    "parentRequirements": [],
+    "childRequirements": [],
+    "implemented": [],
+    "prefix": "WGW",
+    "url": "https://www.symcon.de/en/service/documentation/module-reference/wunderground-weather/"
 }

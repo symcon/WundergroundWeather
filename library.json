@@ -1,12 +1,12 @@
 {
-	"id": "{77CBBDBC-29C2-4EF0-ACC9-70484BA4C8BC}",
-	"author": "Symcon GmbH",
-	"name": "WundergroundWeather",
-	"url": "https://www.symcon.de/",
-	"compatibility": {
-		"version": "4.2"
-	},
-	"version": "1.0",
-	"build": 0,
-	"date": 0
+    "id": "{77CBBDBC-29C2-4EF0-ACC9-70484BA4C8BC}",
+    "author": "Symcon GmbH",
+    "name": "WundergroundWeather",
+    "url": "https://www.symcon.de/",
+    "compatibility": {
+        "version": "4.2"
+    },
+    "version": "1.0",
+    "build": 0,
+    "date": 0
 }
